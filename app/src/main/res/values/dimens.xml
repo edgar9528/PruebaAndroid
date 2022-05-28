@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingGeneral">10dp</dimen>
+    <dimen name="paddingCardView">5dp</dimen>
+    <dimen name="text_cv_titulo">18sp</dimen>
+    <dimen name="text_cv_des">16sp</dimen>
+    <dimen name="textInformacion">20sp</dimen>
+    <dimen name="textDetalle">20sp</dimen>
+</resources>
